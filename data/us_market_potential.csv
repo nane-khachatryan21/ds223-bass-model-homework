@@ -1,0 +1,4 @@
+scenario,us_households,premium_segment_share_assumed,x50_capture_share_assumed,market_potential_households,household_count_source
+Low,132737146,0.2,0.05,1327371,https://data.census.gov/table/ACSST1Y2024.S1101
+Base,132737146,0.2,0.1,2654743,https://data.census.gov/table/ACSST1Y2024.S1101
+High,132737146,0.2,0.2,5309486,https://data.census.gov/table/ACSST1Y2024.S1101

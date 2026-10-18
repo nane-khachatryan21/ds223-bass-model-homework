@@ -1,0 +1,21 @@
+fiscal_year,units_thousands,source_id,reported_category,source_url
+2005,663,S05,Home Robots,https://www.sec.gov/Archives/edgar/data/1159167/000095013507000702/b64144irexv99w1.htm
+2006,725,S05,Home Robots,https://www.sec.gov/Archives/edgar/data/1159167/000095013507000702/b64144irexv99w1.htm
+2007,899,S06,Home Robots,https://www.sec.gov/Archives/edgar/data/1159167/000095013508001079/b68626irexv99w1.htm
+2008,1054,S07,Home Robots,https://media.irobot.com/press-releases?item=122487
+2009,988,S07,Home Robots,https://media.irobot.com/press-releases?item=122487
+2010,1269,S08,Home Robots,https://media.irobot.com/press-releases?item=122437
+2011,1371,S08,Home Robots,https://media.irobot.com/press-releases?item=122437
+2012,1621,S09,Home Robots,https://media.irobot.com/2014-02-05-iRobot-Reports-Fourth-Quarter-and-Full-Year-Financial-Results
+2013,1933,S09,Home Robots,https://media.irobot.com/2014-02-05-iRobot-Reports-Fourth-Quarter-and-Full-Year-Financial-Results
+2014,2174,S10,Home Robots,https://media.irobot.com/2016-02-10-iRobot-Reports-Fourth-Quarter-and-Full-Year-Financial-Results
+2015,2436,S10,Home Robots,https://media.irobot.com/2016-02-10-iRobot-Reports-Fourth-Quarter-and-Full-Year-Financial-Results
+2016,2943,S11,Consumer units shipped,https://media.irobot.com/2018-02-07-iRobot-Reports-Record-Fourth-Quarter-and-Full-Year-Revenue
+2017,3698,S11,Consumer units shipped,https://media.irobot.com/2018-02-07-iRobot-Reports-Record-Fourth-Quarter-and-Full-Year-Revenue
+2018,4537,S12,Robot units shipped - Total,https://media.irobot.com/2020-02-05-iRobot-Reports-Fourth-Quarter-and-Full-Year-2019-Financial-Results
+2019,4989,S12,Robot units shipped - Total,https://media.irobot.com/2020-02-05-iRobot-Reports-Fourth-Quarter-and-Full-Year-2019-Financial-Results
+2020,5494,S13,Robot units shipped - Total,https://media.irobot.com/2021-02-10-iRobot-Reports-Fourth-Quarter-and-Full-Year-2020-Financial-Results
+2021,5602,S14,Robot units shipped - Total,https://media.irobot.com/2023-02-13-iRobot-Reports-Fourth-Quarter-and-Full-Year-2022-Financial-Results
+2022,4182,S14,Robot units shipped - Total,https://media.irobot.com/2023-02-13-iRobot-Reports-Fourth-Quarter-and-Full-Year-2022-Financial-Results
+2023,3034,S15,Robot units shipped - Total,https://media.irobot.com/2024-02-26-iRobot-Reports-Fourth-Quarter-and-Full-Year-2023-Financial-Results
+2024,2463,S16,Robot units shipped - Total,https://media.irobot.com/2025-03-12-iRobot-Reports-Fourth-Quarter-and-Full-Year-2024-Financial-Results
